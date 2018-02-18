@@ -4,7 +4,8 @@ Hacer un diagnostico de una empresa de construccion; pasos a seguir;
 
 Tareas pendientes:
 
-- agregar sistema de permisos
+
+- validar permisos
 - pagina principal
 - visualizacion y busqueda tabla proyectos
 - visualizacion y busqueda tabla Muestreos
@@ -20,8 +21,13 @@ Tareas pendientes:
 - insertar Operaciones
 - insertar Tareas
 - insertar Muestra
+- busqueda Proyectos
+- busqueda Muestros
+- busqueda Observaciones
+- busqueda Operaciones
 - agregar campo de la tabla en el formulario de sign_up
 - agregar los datos en sign _up creando un controlador para devise
+- (completo)agregar sistema de permisos
 - (completo)agregar relaciones a los modelos
 
 si falta algo mas metanlo a la lista, lo que ya esta listo pasenlo al fondo y lo marcan con (completado)
