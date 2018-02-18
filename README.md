@@ -20,6 +20,8 @@ Tareas pendientes:
 - insertar Operaciones
 - insertar Tareas
 - insertar Muestra
+- agregar campo de la tabla en el formulario de sign_up
+- agregar los datos en sign _up creando un controlador para devise
 - (completo)agregar relaciones a los modelos
 
 si falta algo mas metanlo a la lista, lo que ya esta listo pasenlo al fondo y lo marcan con (completado)
