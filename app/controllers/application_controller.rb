@@ -9,7 +9,7 @@ class ApplicationController < ActionController::Base
 	    user_params.permit(:username, :email)
 	  end
 	end
-
+end
 
 #	before_action :configure_devise_permitted_parameters, if: :devise_controller?
 
@@ -27,4 +27,3 @@ class ApplicationController < ActionController::Base
 #	    	}
 #	    end
 #  	end
-end
